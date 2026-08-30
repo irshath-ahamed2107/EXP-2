@@ -1,4 +1,10 @@
-# Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
+# Experiment 3: Blockchain-Based Crowdfunding (Kickstarter Alternative)
+## Date :  06-08-2026
+```
+Name: N Irshath Ahamed
+Reg no: 212224110025
+```
+
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
@@ -62,22 +68,20 @@ contract Crowdfunding {
 ```
 # Expected Output:
 Users can contribute ETH to the campaign.
+<img width="1920" height="1128" alt="Screenshot 2026-08-14 135134" src="https://github.com/user-attachments/assets/ac2fce05-e574-444c-8d48-c15a03dcf373" />
 
-<img width="1888" height="1011" alt="Screenshot 2026-08-06 142706" src="https://github.com/user-attachments/assets/8ce74248-253a-4f2f-b322-2f5e5344dfce" />
 
 
 
 If the goal is met, the creator can withdraw funds.
-
-<img width="1920" height="1200" alt="Screenshot 2026-08-06 142810" src="https://github.com/user-attachments/assets/08526ac7-4cf8-400d-9a28-9ef540209fcd" />
-
+<img width="1920" height="1128" alt="Screenshot 2026-08-14 135218" src="https://github.com/user-attachments/assets/4f503b2f-eee8-4941-9696-fcf408965596" />
 
 
 
 
 If the goal is not met, contributors can claim a refund.
+<img width="1920" height="1128" alt="Screenshot 2026-08-14 135228" src="https://github.com/user-attachments/assets/7ad97556-c170-441d-8179-826993f20a90" />
 
-<img width="1891" height="1011" alt="Screenshot 2026-08-06 142724" src="https://github.com/user-attachments/assets/43b8cf0a-b9f8-493b-aaff-6d9915dc21d4" />
 
 
 
@@ -88,4 +92,4 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
- Thus,a decentralized crowdfunding platform has been created and succesfully executed
+Thus, a decentralized crowdfunding platform has been created and successfully executed.
